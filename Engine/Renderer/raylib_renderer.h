@@ -14,4 +14,5 @@ void draw_to_texture();
 void draw_to_screen();
 void draw_pixel();
 void draw_image();
+void play_sound();
 #endif
